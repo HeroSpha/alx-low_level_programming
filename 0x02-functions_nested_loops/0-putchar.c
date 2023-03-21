@@ -2,9 +2,9 @@
 
 
 /**
-*main entry point
+* main entry point
 * 
-* Return: Always return 0
+* Return: Always returns 0
 *
 */
 
