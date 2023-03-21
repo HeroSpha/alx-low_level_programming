@@ -10,7 +10,8 @@
  */
 
 
-int main() {
+int main()
+{
     putchar('_');
     putchar('p');
     putchar('u');
