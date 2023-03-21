@@ -5,7 +5,7 @@
  *main entry point
  * 
  * 
- * Return: Always 0
+ * Return: Always return 0
  *
  */
 
