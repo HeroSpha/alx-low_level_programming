@@ -2,7 +2,7 @@
 
 
 /**
- *main entry point
+*main entry point
 * 
 * Return: Always return 0
 *
